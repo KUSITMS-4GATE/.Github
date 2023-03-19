@@ -18,7 +18,7 @@
 
 ## Ver 2
 ### Repo
-:fire: [**Groad-Server**](https://github.com/KUSITMS-4GATE/meetUp-Backend)
+:fire: [**Groad-Server**](https://github.com/KUSITMS-4GATE/Groad-Server)
 
 ### 팀원
 - 개발: 고승원, 이정진
